@@ -1,6 +1,4 @@
 # Silver-Rat-V-1.0-Crack-Leak
-Password       julaya
-
 
 Hidden Browser ☠️⭐️💥
 
