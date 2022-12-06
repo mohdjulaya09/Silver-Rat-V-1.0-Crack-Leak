@@ -21,7 +21,10 @@ With control of pop-up windows from any application under hidden control
 
 Silver rat Description ☠️💥⚡️
 
-It is the best Remote administration tool  of 2022 which has many unique features
+It is the best Remote administration tool  of 2022 which has many unique features![Screenshort (1)](https://user-images.githubusercontent.com/118585119/205806078-6ae3476d-5c3d-4136-a4fe-a840b13441fe.jpeg)
+![Screenshort (2)](https://user-images.githubusercontent.com/118585119/205806082-a1fcc1c3-37d5-41d6-8b14-1ab76d5b4d0e.jpeg)
+![Screenshort (3)](https://user-images.githubusercontent.com/118585119/205806083-19fac77a-0fdc-44e4-bc9b-ad417b36264b.jpeg)
+
 NB :
 We never neglect or let our product die It is updated all the time.
 We have good ideas and future updates, and we rely on our customers' opinions and suggestions to update or modify the product
@@ -29,3 +32,8 @@ We have good ideas and future updates, and we rely on our customers' opinions an
 Stub : 
 The default size is 35 KB
 And it depends Based on your choice of features. The more features you choose, the higher the base payload size
+
+
+
+Examples 
+
